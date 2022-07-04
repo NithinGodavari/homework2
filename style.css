@@ -1,0 +1,150 @@
+footer ul {
+    width: 230px;
+}
+main .content p {
+    color: #0dc52c;
+    margin: 30px 0 0 0;
+}
+header nav {
+  float: right;
+  width: 250px;
+}
+.tabs a .active {
+    background: #9a86f1;
+}
+main .content {
+	border-radius: 0 5px 5px 5px;
+    	padding: 45px 25px 36px 28px;
+    	background: #e07822;
+}
+body {
+  background: #BDB76B;
+  font-family: 'Comic Sans MS', Comic Sans MS;
+}
+h1 {
+	font-size: 3em;
+  	font-family: 'Comic Sans MS', Comic Sans MS;
+  	font-style: Comic Sans MS;
+  	float: left;
+  	width: 900px;
+  	color: #080a0a;
+}
+main {
+ border-radius: 0 15px 15px 15px;
+    background: #DCDCDC;
+    padding: 40px;
+}
+
+
+header .container, main .container, footer .container {
+  max-width: 675px;
+  margin: auto;
+}
+
+header, main, footer {
+  min-width: 675px;
+}
+
+li {
+    list-style: none;
+}
+
+footer .sitemap .left {
+    float: left;
+}
+
+h2, h4, h6 {
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.tabs a span {
+	width: 100px;
+	text-align: center;
+	border-radius: 50px 50px 0 0;
+    	background:#FFFFF0;
+    	display: inline-block;
+    	padding: 5px;
+    	margin-right: 10px;
+    	 
+}
+
+header {
+  padding: 25px 0 25px 0;
+  background: rgb(147, 206, 221);
+  overflow: auto;
+  border-bottom: 1px solid #BC8F8F;
+}
+a {
+  color: #242324;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+footer .sitemap {
+    float: right;
+    width: 285px;
+}
+
+h3 {
+    font-family: 'tw cen', 'Times New Roman', Times, serif;
+    border-radius: 5px;
+    color: #696969;
+    background:#FFFFFF;
+    padding: 5px;
+    margin: 20px 0 10px 0;
+}
+
+h3:first-child {
+    margin-top: 0;
+}
+
+main .content li {
+ 	margin: 0 0 30px 0;
+	padding: 6px;
+    	border-radius: 100px;
+    	background:#FFFFFF;
+}
+
+main .content button {
+	 padding: 0 3px 0 3px;
+	margin-left: 5px;
+  	font-weight: bold;
+  	background: #BC8F8F;
+  	border-radius: 100px;
+  	cursor: pointer;
+  	font-size: 1.3em;
+}
+
+
+main .content p:first-child {
+    margin-top: 10px;
+}
+
+main .content input {
+    font-size: 1.5em;
+}
+
+
+
+footer {
+    border-top: 1px solid #ddd;
+    padding: 40px 0 20px 0;
+}
+footer .sitemap .right {
+    float: right;
+}
+footer .contact {
+  float: left;
+  width: 570px;    
+}
+
+h5 {
+    font-family: 'Comic Sans MS',Comic Sans MS;
+    font-size: 1.25em;
+    margin-bottom: 20px;
+}
+
+footer .contact p:nth-child(2) {
+  color: #191970;
+  font-style: Impact;
+}
